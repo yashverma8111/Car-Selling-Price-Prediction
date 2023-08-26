@@ -12,7 +12,7 @@ The repository comprises the following key components:
 
 - `car_data.csv`: This CSV file contains the dataset used for training and testing the predictive model. It includes various features related to cars and their corresponding selling prices.
 
-- `main.py`: This Python script contains the code for loading the dataset, preprocessing the data, training a Linear Regression model, and making predictions. It also calculates the R-squared error score to assess the model's performance.
+- `prize_prediction.ipynb`: This Python script contains the code for loading the dataset, preprocessing the data, training a Linear Regression model, and making predictions. It also calculates the R-squared error score to assess the model's performance.
 
 - `README.md`: This README file provides a concise overview of the project, its objectives, and instructions for running the code. It explains the dataset, the approach taken to predict selling prices, and how to interpret the results.
 
